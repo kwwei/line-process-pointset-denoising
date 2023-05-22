@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FilterScript>
+  <filter name="MLS projection (RIMLS)">
+    <Param type="RichMesh" value="0" name="ControlMesh"/>
+    <Param type="RichMesh" value="0" name="ProxyMesh"/>
+    <Param type="RichBool" value="false" name="SelectionOnly"/>
+    <Param type="RichFloat" value="8.0" name="FilterScale"/>
+    <Param type="RichFloat" value="0.0001" name="ProjectionAccuracy"/>
+    <Param type="RichInt" value="15" name="MaxProjectionIters"/>
+    <Param type="RichFloat" value="0.75" name="SigmaN"/>
+    <Param type="RichInt" value="3" name="MaxRefittingIters"/>
+    <Param type="RichInt" value="0" name="MaxSubdivisions"/>
+    <Param type="RichFloat" value="2" name="ThAngleInDegree"/>
+  </filter>
+</FilterScript>

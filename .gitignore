@@ -1,0 +1,13 @@
+*~
+build/
+build-debug/
+result/
+.git.bkp*/
+scripts/*.txt
+scripts/*.png
+scripts/*.obj
+scripts/*.vtk
+*.so
+__pycache__/
+*.mat
+*.user
