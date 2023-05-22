@@ -32,6 +32,4 @@ bash cad_post_processing_demo.sh
 ```
 
 ### Contact information
-
-Author: Jiayi Wei \
-Email: jiayi.wei@lix.polytechnique.fr
+Jiayi Wei: jiayi.wei@polytechnique.edu
