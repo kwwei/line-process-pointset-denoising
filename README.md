@@ -1,7 +1,7 @@
 
 # Robust Pointset Denoising via Line Processes
 
-This is a reference implementation of our Eurographics'23 paper [Robust Pointset Denoising of Piecewise-Smooth Surfaces through Line Processes](https://jiongchen.github.io/files/lineproc-paper.pdf). 
+This is a reference implementation of our Eurographics'23 paper [Robust Pointset Denoising of Piecewise-Smooth Surfaces through Line Processes](https://kwwei.github.io/files/lineprocess-denoising.pdf). 
 
 ### Builiding
 
